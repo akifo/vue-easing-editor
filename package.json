@@ -1,0 +1,39 @@
+{
+  "name": "vue-easing-editor",
+  "version": "0.0.1",
+  "description": "Tool Cubic Bezier Editor",
+  "main": "App.vue",
+  "scripts": {
+    "dev": "vue serve App.vue",
+    "build": "vue build App.vue"
+  },
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-property-decorator": "^8.1.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "@typescript-eslint/parser": "^1.9.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "prettier": "^1.17.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "ts-loader": "^6.0.0",
+    "typescript": "^3.4.5",
+    "vue-eslint-parser": "^6.0.4",
+    "webpack": "^4.31.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akifo/vue-cubic-bezier.git"
+  },
+  "author": "Akiho Nagao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akifo/vue-cubic-bezier/issues"
+  },
+  "homepage": "https://github.com/akifo/vue-cubic-bezier#readme"
+}
