@@ -2,6 +2,7 @@
 
 **Depreciated**: [Vue Class API proposal is being dropped.](https://github.com/vuejs/rfcs/pull/17#issuecomment-494242121)
 
+![App Screen Shot](https://github.com/akifo/vue-easing-editor/raw/master/screen-shot.gif)
 
 ## Installation
 
