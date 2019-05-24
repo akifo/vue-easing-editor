@@ -5,7 +5,7 @@
   "main": "App.vue",
   "scripts": {
     "dev": "vue serve App.vue",
-    "build": "vue build App.vue"
+    "build": "vue build App.vue -d docs"
   },
   "dependencies": {
     "vue": "^2.6.10",
