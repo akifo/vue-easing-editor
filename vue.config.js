@@ -1,4 +1,6 @@
 module.exports = {
+  publicPath:
+    process.env.NODE_ENV === 'production' ? '/vue-easing-editor/' : '/',
   chainWebpack: config => {
     config.resolve.extensions.prepend('.ts')
     config.module
